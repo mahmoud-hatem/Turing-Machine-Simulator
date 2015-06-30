@@ -1,0 +1,19 @@
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe.config
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.pdb
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.Form1.resources
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.exe
+c:\users\mohamed\documents\visual studio 2012\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.pdb
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe.config
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.exe
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.pdb
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.pdb
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csprojResolveAssemblyReference.cache
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.Properties.Resources.resources
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csproj.GenerateResource.Cache
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.Simulator.resources
+D:\ubuntu\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\TuringMachineBuilder.Builder.resources

@@ -1,0 +1,7 @@
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/obj/Debug/Turing_Machine_Simulator.Form1.resources
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/obj/Debug/Turing_Machine_Simulator.Properties.Resources.resources
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/bin/Debug/Turing Machine Simulator.exe.mdb
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/bin/Debug/Turing Machine Simulator.exe
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/obj/Debug/Turing Machine Simulator.exe
+/media/mahmoud-hatem/Work/ubuntu/Turing Machine Simulator/Turing Machine Simulator/obj/Debug/Turing Machine Simulator.exe.mdb

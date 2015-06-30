@@ -1,0 +1,8 @@
+states
+q0 0 40 100
+q1 0 200 100
+q2 1 400 100
+transitions
+q0 q1 a # r
+q1 q1 a # r 90
+q1 q2 b # r

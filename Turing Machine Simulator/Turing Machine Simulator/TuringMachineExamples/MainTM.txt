@@ -1,0 +1,32 @@
+﻿states
+q0 0 40 190
+q1 0 190 90
+q2 0 340 90
+q3 0 490 90
+q4 0 640 90
+q5 0 790 90
+q6 0 640 290
+q7 0 340 290
+q8 0 40 390
+q9 1 40 490
+transitions
+q0 q1 a # r
+q1 q1 a a r 90
+q1 q2 b B r
+q2 q2 b b r 90
+q2 q3 c c r
+q3 q3 c c r 90
+q3 q4 # # l
+q4 q5 c # l
+q5 q5 c c l 90
+q5 q5 b b l 0
+q5 q6 B B r
+q6 q2 b B r
+q6 q7 c c l
+q6 q7 # # l
+q7 q7 B b l -90
+q7 q7 a a l 90
+q7 q0 # # r
+q0 q8 b b r
+q8 q8 b b r 0
+q8 q9 # # s
